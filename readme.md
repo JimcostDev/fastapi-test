@@ -2,7 +2,7 @@
 
 1. Clona este repositorio ejecutando el siguiente comando:
     ```
-    git clone https://github.com/JimcostDev/jimcostdev_api.git
+    git clone https://github.com/JimcostDev/fastapi-test.git
 
 2. Crea y activa tu entorno virtual:
     - Crea un entorno virtual:
