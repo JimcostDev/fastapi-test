@@ -8,7 +8,7 @@ En este tutorial, aprenderás a construir una API simple usando FastAPI, uno de 
 
 - [Video Tutorial en YouTube](https://youtu.be/BZZOuM1UpyI?si=7E2yZG-BtAja4Q5q)
 
-## Cómo usar este tutorial
+## Cómo probarlo
 
 1. **Clona este repositorio** ejecutando el siguiente comando:
 
