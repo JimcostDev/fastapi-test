@@ -49,3 +49,7 @@ En este tutorial, aprenderás a construir una API simple usando FastAPI, uno de 
     fastapi dev main.py # mode dev
     fastapi run # mode prod
     ```
+5. **Actualizar versión de FastAPI**:
+ ```bash
+    pip install --upgrade fastapi
+ ```

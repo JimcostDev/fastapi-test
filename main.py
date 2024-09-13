@@ -16,7 +16,10 @@ db = client.football
 # Obtener la referencia a la colección de equipos
 teams_collection = db.teams
 
-@app.get("/teams")
+@app.get("/", 
+         tags=["Teams"],
+         summary="Get all teams",
+         description="Get all teams from the database",)
 async def get_teams():
     # Consulta por liga
     filter = {}
