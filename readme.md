@@ -53,3 +53,8 @@ En este tutorial, aprenderás a construir una API simple usando FastAPI, uno de 
  ```bash
     pip install --upgrade fastapi
  ```
+ ### Puedes  instalar las dependecias individualmente con:
+```bash
+    pip install "fastapi[standard]"
+    pip install pymongo
+```
