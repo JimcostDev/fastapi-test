@@ -1,12 +1,12 @@
-# Tutorial: Cómo crear tu primera API con FastAPI
+# Tutorial: Cómo crear tu primer API con FastAPI
 
-En este tutorial, aprenderás a construir una API simple usando FastAPI, uno de los frameworks más rápidos y eficientes para desarrollar APIs en Python. Te guiaremos paso a paso desde la instalación de dependencias hasta la implementación de rutas y la configuración de la documentación automática.
+En este tutorial, aprenderás a construir una API simple usando **FastAPI**, uno de los frameworks más rápidos y eficientes para Python.
 
-## Recursos
+## 📺 Recursos del Tutorial
 
-![Imagen del tutorial](https://firebasestorage.googleapis.com/v0/b/jimcostdev-firebase.appspot.com/o/FASTAPI-MINIATURA.jpg?alt=media&token=1a9de89a-9842-4c6a-ba25-7c65f43e0f1e)
+Haz clic en la imagen para ver el video completo paso a paso:
 
-- [Video Tutorial en YouTube](https://youtu.be/BZZOuM1UpyI?si=7E2yZG-BtAja4Q5q)
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/BZZOuM1UpyI/maxresdefault.jpg)](https://youtu.be/BZZOuM1UpyI)
 
 ## Cómo probarlo
 
